@@ -112,4 +112,4 @@ Small screen:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Tink-a-lot © 2019. All Rights Reserved.
